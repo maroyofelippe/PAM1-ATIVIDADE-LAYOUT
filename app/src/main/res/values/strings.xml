@@ -7,4 +7,8 @@
     <string name="local">Local:</string>
     <string name="btnSalvar">SALVAR</string>
     <string name="btnSelecione">SELECIONE</string>
+    <string name="btnb1">B1</string>
+    <string name="btnb2">B2</string>
+    <string name="data1">Data1</string>
+    <string name="data2">Data2</string>
 </resources>
